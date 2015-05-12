@@ -11,6 +11,7 @@ Ben Marwick <bmarwick@uw.edu>
 ### Abstract:
 
 A picture may be worth a thousand words, but the context in which that picture was made tells the true story. Increasingly in data-driven archaeology, the metadata behind an analysis are becoming as important as the results. This poster symposium is based on the notion that a poster, presentation, or publication is an advertisement of a research finding or analytical method—true scientific contributions include the production of raw data and the process of analyzing and interpreting them. Often, the best way to capture the nuances of an analysis is through a script, or computer code. A script is both reproducible (allowing for the methods to be thoroughly scrutinized and re-actualized) and portable (potentially allowing an analysis to be applied to other culture-contexts). Reproducibility and portability are enhanced by using free and open-source software (FOSS) for data analysis.
+
 All analyses presented in this poster session have been scripted for reproducibility and portability, and all use FOSS tools. These posters emphasize data-driven visual storytelling—>50% of their area are eye-catching visualizations, and each is limited to 500 words of text. PDFs of all posters and the metadata, code, and documentation for all analyses are available at https://github.com/FOSS4Arch/SAA2016.
 
 
