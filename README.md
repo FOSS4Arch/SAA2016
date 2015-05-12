@@ -1,7 +1,9 @@
 # Fork Me Archaeology!
 ## A Visual Poster Symposium of Script-Reproducible Research for the SAA2016 meeting
 
-Kelsey M. Reese, R. Kyle Bocinsky, and Ben Marwick
+Kelsey M. Reese <kelsey.m.reese@gmail.com>
+R. Kyle Bocinsky <bocinsky@gmail.com>
+Ben Marwick <bmarwick@uw.edu>
 
 ### Abstract:
 
