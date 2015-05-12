@@ -2,7 +2,9 @@
 ## A Visual Poster Symposium of Script-Reproducible Research for the SAA2016 meeting
 
 Kelsey M. Reese <kelsey.m.reese@gmail.com>
+
 R. Kyle Bocinsky <bocinsky@gmail.com>
+
 Ben Marwick <bmarwick@uw.edu>
 
 ### Abstract:
