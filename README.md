@@ -1,5 +1,6 @@
 # Fork Me Archaeology!
-## A Visual Poster Symposium of Script-Reproducible Research for the SAA2016 meeting
+## A Visual Poster Symposium of Script-Reproducible Research
+## The Society for American Archaeology 2016 Meetings, Orlando, Florida
 
 Kelsey M. Reese <kelsey.m.reese@gmail.com>
 
